@@ -150,9 +150,9 @@ This is a list of the core concepts, libraries, and tools I have utilized in my 
 
 I'm always open to connecting with other developers, students, and potential employers. Feel free to reach out!
 
-- **LinkedIn:** [Your LinkedIn Profile URL](https://www.linkedin.com/in/your-username/)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **Portfolio Website:** [your-portfolio-url.com](https://your-portfolio-url.com)
+- **LinkedIn:** [Your LinkedIn Profile URL](https://www.linkedin.com/in/sheikh-mohammad-daaim/)
+- **Email:** [your.email@example.com](mailto:sheikhdaaim143@gmail.com)
+- **Portfolio Website:** [your-portfolio-url.com](#)
 
 ---
 
