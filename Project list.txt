@@ -1,0 +1,106 @@
+🟢 Beginner Projects (for fundamentals & syntax)
+These will help you practice loops, functions, arrays, and basic logic.
+
+1. Calculator --> Completed
+Functions for + - * / %
+
+Extend with power(), sqrt(), etc.
+
+2. Tic-Tac-Toe --> Progress
+2-player game in console
+
+Use a 3x3 array, win/draw detection logic
+
+3. Student Record System
+Store student info in structs
+
+Save/load to files
+
+Add, delete, edit, and search students
+
+4. To-Do List Manager
+Dynamic array or linked list
+
+Save to a .txt file
+
+Mark tasks as done/pending
+
+5. Number Guessing Game
+Random number generation
+
+Feedback: too high / too low
+
+🟡 Intermediate Projects (for data structures & file I/O)
+These help you learn pointers, structs, dynamic memory, and linked lists.
+
+6. Contact Book
+Use linked lists or arrays
+
+CRUD operations (Create, Read, Update, Delete)
+
+File persistence
+
+7. Library Management System
+Book borrowing/return system
+
+Track availability of books
+
+Use file I/O + menu-driven UI
+
+8. Banking System
+Users with account numbers and PINs
+
+Deposit, Withdraw, View balance
+
+Save data to file securely
+
+9. Quiz Game
+Load questions from a file
+
+Score tracking and difficulty levels
+
+Add a leaderboard feature
+
+10. Unit Converter
+Menu for converting length, weight, temperature, etc.
+
+Use functions and switch-case
+
+🔴 Advanced Projects (for pointers, algorithms, memory mgmt)
+These will push your understanding of system-level C.
+
+11. Text Editor (like nano but basic)
+Open/save text files
+
+Move cursor, insert, delete characters
+
+Practice string buffers, terminal control
+
+12. Simple Shell (Command Line Interface)
+Accepts user commands
+
+Runs basic UNIX commands using fork(), exec(), system()
+
+Handle multiple commands and errors
+
+13. Mini File Compression Tool
+Use Huffman Coding
+
+Compress and decompress .txt files
+
+Practice trees, priority queues, and bit manipulation
+
+14. Chat Application (LAN-based)
+Use TCP sockets
+
+One-to-one terminal chat
+
+Learn system calls: socket(), bind(), accept(), recv(), send()
+
+15. Snake Game in Terminal
+Use ncurses.h or custom terminal graphics
+
+Keyboard controls, food spawn, score
+
+Linked list for snake body
+
