@@ -1,7 +1,0 @@
-----------------------------------
-Record no: 1
-Name: Daaim
-ID: 69
-Grade: 100
-Address: Srinagar
-
