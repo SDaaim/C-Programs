@@ -1,7 +1,0 @@
-{
-  "files.associations": {
-    ".env": "bat",
-    "math_functions.h": "c",
-    "stdlib.h": "c"
-  }
-}
