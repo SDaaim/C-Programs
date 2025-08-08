@@ -1,1 +1,13 @@
-*.txt
+.vscode/
+
+*.o
+*.out
+*.exe
+*.obj
+*.dll
+*.so
+*.a
+*.class
+
+
+*.txt        
